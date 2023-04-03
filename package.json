@@ -1,0 +1,21 @@
+{
+  "name": "foolpox",
+  "version": "1.0.0",
+  "description": "functional programming toolbox",
+  "main": "dist/index.js",
+  "types": "dist/index.d.ts",
+  "files": [ "/src" ],
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ThomasM92/foolpox.git"
+  },
+  "scripts": {
+    "format": "prettier --write src/"
+  },
+  "devDependencies": {
+    "prettier": "^2.8.7"
+  },
+  "keywords": [],
+  "author": "Thomas Muller",
+  "license": "ISC"
+}
